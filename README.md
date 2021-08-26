@@ -1,2 +1,1 @@
-# Segmentation-of-Mall-Customers
-Segmentation Users using Python
+Credit scoring Tinkoff
